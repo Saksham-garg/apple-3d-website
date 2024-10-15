@@ -22,14 +22,14 @@ canvas {
   touch-action: none;
 }
 
-.scrim-max-width {
+.screen-max-width {
   margin-inline-start: auto;
   margin-inline-end: auto;
   position: relative;
   max-width: 1120px;
 }
 
-@layer utilities {
+@layer components {
   .flex-center {
     @apply flex items-center justify-center
   }
