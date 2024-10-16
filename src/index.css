@@ -29,7 +29,7 @@ canvas {
   max-width: 1120px;
 }
 
-@layer components {
+@layer utilities {
   .flex-center {
     @apply flex items-center justify-center
   }
